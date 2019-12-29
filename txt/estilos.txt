@@ -1,0 +1,7 @@
+header{
+    background: orange;
+}
+h1{
+    color: red;
+    font-size: 20px;
+}
